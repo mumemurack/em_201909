@@ -1,0 +1,25 @@
+main{
+  box-sizing:border-box;
+  padding-top:4.5rem;
+  padding-bottom:2rem;
+  min-height:100vh;
+  height:auto;
+}
+.carousel-item img{
+  max-height:300px;
+  object-fit: cover;
+}
+.main_carouse{
+  margin-bottom:2rem;
+}
+footer{
+  width: 100%;
+  padding:1rem;
+}
+
+h1{
+  background: linear-gradient(transparent 70%, #91d4de 70%);
+  margin-top:1.5rem;
+  padding-bottom:.3rem;
+  font-size:2rem;
+}
